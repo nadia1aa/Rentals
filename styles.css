@@ -1,0 +1,28 @@
+header{
+    background-color: white
+}
+
+a {
+    color: black;
+}
+
+.service_list {
+    color: red;
+}
+
+.home_list {
+    color: green;
+}
+
+#car_rentals{
+    color: black;
+    font-size: 10rem;
+    font-weight: 900;
+    text-decoration: none;
+    border: 1px solid red
+}
+
+body{
+    text-align: center;
+    margin-top: 5rem;
+}
